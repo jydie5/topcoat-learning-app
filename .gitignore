@@ -1,0 +1,6 @@
+/target
+topcoat-todos.db
+topcoat-todos.db-shm
+topcoat-todos.db-wal
+topcoat-todos.pre-auth.bak
+.env
